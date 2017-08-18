@@ -1,0 +1,31 @@
+@font-face{
+	font-family: "Lora-Bold";
+	font-style: normal;
+	font-weight: 500;
+	src: url("../fonts/Lora/Lora-Bold.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Lora";
+	font-style: normal;
+	font-weight: 500;
+	src: url("../fonts/Lora/Lora-BoldIalic.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Lora";
+	font-style: normal;
+	font-weight: 500;
+	src: url("../fonts/Lora/Lora-Italic.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Lora";
+	font-style: normal;
+	font-weight: 500;
+	src: url("../fonts/Lora/Lora-Regurlar.ttf") format("truetype");
+}
+
+body{
+	font-family: "Lora-Regurlar";
+}
